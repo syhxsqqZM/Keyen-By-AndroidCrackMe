@@ -1,2 +1,2 @@
 # Keyen-By-AndroidCrackMe
-一个关于AndroidCrackMe的注册机的编写
+要求：获取apk的注册码，使apk进入注册成功的界面
